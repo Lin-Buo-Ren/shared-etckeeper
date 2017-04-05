@@ -1,0 +1,10 @@
+[Unit]
+Description=Mount unit for ubuntu-calculator-app
+
+[Mount]
+What=/var/lib/snapd/snaps/ubuntu-calculator-app_20.snap
+Where=/snap/ubuntu-calculator-app/20
+Type=squashfs
+
+[Install]
+WantedBy=multi-user.target

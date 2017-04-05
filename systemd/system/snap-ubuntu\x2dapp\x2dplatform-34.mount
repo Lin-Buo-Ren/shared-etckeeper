@@ -1,0 +1,10 @@
+[Unit]
+Description=Mount unit for ubuntu-app-platform
+
+[Mount]
+What=/var/lib/snapd/snaps/ubuntu-app-platform_34.snap
+Where=/snap/ubuntu-app-platform/34
+Type=squashfs
+
+[Install]
+WantedBy=multi-user.target

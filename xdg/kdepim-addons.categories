@@ -1,0 +1,13 @@
+# kdepim-addons
+log_createeventplugin kdepim-addons (create event plugin)
+log_createnoteplugin kdepim-addons (create note plugin)
+log_createtodoplugin kdepim-addons (create todo plugin)
+log_isgdshorturlengineplugin kdepim-addons (shorturl engine isgd)
+log_ur1cashorturlengineplugin kdepim-addons (shorturl engine ur1ca)
+log_korganizer_picoftheday_plugins kdepim-addons (korganizer picoftheday plugins)
+log_kaddressbook_sendvcards kdepim-addons (kaddressbook sendvcards plugins)
+log_kaddressbook_sendmail kdepim-addons (kaddressbook sendmail plugins)
+log_kmail_zoomtexteditorplugin kdepim-addons (kmail zoomtext editor plugins)
+log_kmail_changecaseeditorplugin kdepim-addons (kmail changecase editor plugins)
+log_adblockinterceptor kdepim-addons (adblock interceptor)
+log_donottrackinterceptor kdepim-addons (do not track interceptor)
